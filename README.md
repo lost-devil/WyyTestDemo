@@ -1,2 +1,2 @@
 # WyyTestDemo
-个人为深入了解某些API特性写的一些Demo
+个人为深入了解Android某些API特性写的一些Demo
